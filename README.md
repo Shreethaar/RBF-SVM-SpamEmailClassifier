@@ -1,4 +1,5 @@
-Methodology
+INTELLIGENT SYSTEM FOR SPAM EMAIL FILTER 
+Methodology:
 This research is about to experiment SVM machine learning models and utilize enron spam email data which are publicly available. This research paper aims to achieve the following objectives:
 To explore Support Vector Machine algorithms for the spam classifier.
 To investigate the workings and phases to develop a machine learning model with the selected datasets
